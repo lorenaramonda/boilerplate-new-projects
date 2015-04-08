@@ -1,1 +1,3 @@
-# boilerplate-new-projects
+# Boilerplate New Projects
+
+Stay tuned ;)
